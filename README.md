@@ -11,4 +11,4 @@ Thanks for stopping by. Here's a little bit about myself...
 
 🤘 You can find various **data engineering/Data Anlytics/Business Intelligence/Machine Learning Project on my profile**
 
-📫 Here's how you can reach me: [Email](krishna.narwade.de@gmail.com) | [LinkedIn](https://www.linkedin.com/in/krishna-n/)
+📫 Here's how you can reach me: krishna.narwade.de@gmail.com | [LinkedIn](https://www.linkedin.com/in/krishna-n/)
